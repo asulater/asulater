@@ -5,7 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asulater@gmail.com)](mailto:asulater@gmail.com)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asulater)](https://github.com/anuraghazra/github-readme-stats)
 	
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) --!>
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/)](https://www.youtube.com/c/)
+https://img.shields.io/badge/instgram-ff69b4?style=flat-square&logo=instagram&link=https://asulater.github.io/)](https://asulater.github.io/)
+--!>
 
 <!--
 **asulater/asulater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
