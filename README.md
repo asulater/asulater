@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning ...
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://asulater.github.io/)](https://asulater.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asulater@gmail.com)](mailto:asulater@gmail.com)
