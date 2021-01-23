@@ -1,4 +1,3 @@
-### Hi there 👋
 🌱 I’m currently learning ...
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://asulater.github.io/)](https://asulater.github.io/)
@@ -12,7 +11,7 @@ https://img.shields.io/badge/instgram-ff69b4?style=flat-square&logo=instagram&li
 
 <!--
 **asulater/asulater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
